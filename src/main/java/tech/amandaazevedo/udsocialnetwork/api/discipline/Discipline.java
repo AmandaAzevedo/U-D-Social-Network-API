@@ -15,14 +15,13 @@ import javax.persistence.GenerationType;
 import javax.persistence.Id;
 import javax.persistence.SequenceGenerator;
 
-
+@Entity
 @Getter
 @RequiredArgsConstructor
 @NoArgsConstructor
 @Setter
 @ToString
 @EqualsAndHashCode(of={"id"})
-@Entity
 public class Discipline {
 
     @Id
