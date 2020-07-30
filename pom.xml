@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>tech.amandaazevedo</groupId>
-	<artifactId>U-D-S-Network-API</artifactId>
+	<artifactId>U-D-Social-Network-API</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>U-D-S-Network-API</name>
-	<description>University Disciplines Social Network API make in the SpringBoot API course</description>
+	<name>U-D-Social-Network-API</name>
+	<description>University Disciplines Social Network API make in the SpringBoot API course.</description>
 
 	<properties>
 		<java.version>1.8</java.version>

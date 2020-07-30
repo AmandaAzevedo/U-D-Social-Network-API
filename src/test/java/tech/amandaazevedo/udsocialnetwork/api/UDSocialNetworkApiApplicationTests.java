@@ -1,10 +1,10 @@
-package tech.amandaazevedo.udsnetwork.api;
+package tech.amandaazevedo.udsocialnetwork.api;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class UDSNetworkApiApplicationTests {
+class UDSocialNetworkApiApplicationTests {
 
 	@Test
 	void contextLoads() {
